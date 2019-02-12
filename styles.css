@@ -54,7 +54,7 @@ a:hover {
 
 header {
   text-align: center;
-  background: url('images/portland.jpg') no-repeat top center ;
+  background: url('images/dream.png') no-repeat top center ;
   background-size: cover;
   overflow: hidden;
   padding-top: 60px;
@@ -83,7 +83,7 @@ header .profile-image:hover {
 } 
 .location {
   background-color: #222;
-  color: pink;
+  color: green;
 }
 .card {
   margin: 30px;
@@ -95,7 +95,7 @@ header .profile-image:hover {
   border-radius: 6px;
 }
 .card:hover {
-  border-color: #ff99ff;
+  border-color: green;
 }
 
 ul.skills {
