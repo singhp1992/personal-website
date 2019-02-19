@@ -106,14 +106,14 @@ ul.skills {
 .skills li {
   border-radius: 10px;
   display: inline-block;
-  background: #ff9904;
+  background: #f8df50;
   color: white;
   padding: 5px 10px;
   margin: 2px;
 }
 
 .skills li:nth-child(odd) {
-  background: #0399ff;
+  background: #03cdff;
 }
 
 footer {
