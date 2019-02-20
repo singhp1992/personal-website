@@ -85,6 +85,11 @@ header .profile-image:hover {
   background-color: #222;
   color: rgb(130, 212, 130);
 }
+
+header .location:hover {
+  transform: scale(1.2);
+}
+
 .card {
   margin: 30px;
   padding: 20px 40px 40px;
