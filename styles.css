@@ -139,6 +139,11 @@ ul.skills {
   background: #03cdff;
 }
 
+.skills li:hover {
+  transform: scale(1.2);
+  transition: all .5s;
+}
+
 footer {
   width: 100%;
   min-height: 30px;
