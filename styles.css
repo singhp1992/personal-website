@@ -2,12 +2,17 @@
 * { 
   box-sizing: border-box;
 }
+
+@font-face {
+  font-family: "Caviar Dreams";
+  src: url(fonts/caviar_dreams/CaviarDreams.ttf);
+}
   
 body {
+  font-family: 'Caviar Dreams', Courier, monospace;
   margin: 0;
   padding: 0;
   text-align: center;
-  font-family: 'Roboto', sans-serif;
   color: #222;
   background: #f7f5f0;
 }
