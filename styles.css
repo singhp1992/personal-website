@@ -97,11 +97,7 @@ header .location:hover {
   max-width: 333px;
   text-align: left;
   background: #fff;
-  border-bottom: 4px solid #ccc;
   border-radius: 6px;
-}
-.card:hover {
-  border-color: green;
 }
 
 .resume {
