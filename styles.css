@@ -2,8 +2,14 @@
 * { 
   box-sizing: border-box;
 }
+
+@font-face {
+  font-family: "Felona";
+  src: url(fonts/felona/Felonast-ExtraLight.ttf);
+}
   
 body {
+  font-family: "Felona";
   margin: 0;
   padding: 0;
   text-align: center;
