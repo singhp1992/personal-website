@@ -82,7 +82,7 @@ header .profile-image:hover {
   background-color: transparent;
   color: black;
   padding: 10px;
-  border-radius: 50px;
+  border-radius: 10px;
   display: table;
   margin: 10px auto;
 } 
