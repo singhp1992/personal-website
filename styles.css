@@ -102,7 +102,7 @@ header .location:hover {
   max-width: 333px;
   text-align: left;
   background: #fff;
-  border-radius: 10%;
+  border-radius: 10px;
 }
 
 .resume {
