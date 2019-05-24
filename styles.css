@@ -196,7 +196,17 @@ a.social:hover {
   clear: both;
 }
 
-/* Styles for larger screens */
+/* Tool tips */
+
+tooltip {
+  
+}
+
+tooltiptext {
+
+}
+
+/* Mediaqueries */
 @media screen and (min-width: 720px) {
   
   .flex {
