@@ -124,6 +124,10 @@ ul.skills {
   text-align: center;
 }
 
+.resume ul {
+  color:green;
+}
+
 .skills li {
   border-radius: 10px;
   display: inline-block;
