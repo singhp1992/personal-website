@@ -135,14 +135,14 @@ ul.skills {
 .skills li {
   border-radius: 10px;
   display: inline-block;
-  background: #f8df50;
+  background: #ffe44e;
   color: white;
   padding: 5px 10px;
   margin: 2px;
 }
 
 .skills li:nth-child(odd) {
-  background: #03cdff;
+  background: #75acf3;
 }
 
 .skills li:hover {
