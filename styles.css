@@ -100,9 +100,12 @@ header .location:hover {
   margin: 30px;
   padding: 20px 40px 40px;
   max-width: 333px;
-  text-align: left;
   background: #fff;
   border-radius: 10px;
+}
+
+.left {
+  text-align: left;
 }
 
 .resume {
@@ -196,7 +199,7 @@ a.social:hover {
   clear: both;
 }
 
-/* Tool tips */
+/* Tool tips - not sure if I will use this quite yet*/
 
 .tooltip {
   position: relative;
