@@ -60,7 +60,8 @@ a:hover {
 header {
   text-align: center;
   background: url('images/botanical.jpeg');
-  background-size: auto;
+  background-size: 987px 470px;
+  background-repeat: none;
   overflow: hidden;
   padding-top: 50px;
 }
