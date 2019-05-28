@@ -20,10 +20,10 @@ body {
 
 a {
   text-decoration: none;
-  color: rgb(170, 170, 170);
+  color:rgb(130, 212, 130);
 }
 a:hover {
-  color:rgb(130, 212, 130);
+  
 }
 
 .shadow {
