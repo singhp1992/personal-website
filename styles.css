@@ -85,7 +85,7 @@ header .profile-image:hover {
   border-radius: 10px;
   display: table;
   margin: 10px auto;
-  text-shadow: 2px 2px #FF0000;
+  text-shadow: 2px 2px #ffffff;
 } 
 .location {
   background-color: #222;
