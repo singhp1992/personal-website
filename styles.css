@@ -26,6 +26,10 @@ a:hover {
   color:rgb(130, 212, 130);
 }
 
+.shadow {
+   text-shadow: .5px .5px #ffffff;
+}
+
 /* Section Styles */
 
 .main-nav {
@@ -59,7 +63,7 @@ a:hover {
 
 header {
   text-align: center;
-  background: url('images/dream.png') no-repeat top center ;
+  background: url('images/botanical.jpeg');
   background-size: cover;
   overflow: hidden;
   padding-top: 50px;
@@ -197,6 +201,10 @@ a.social:hover {
 }
 .clearfix {
   clear: both;
+}
+
+.spacing {
+  line-height: 1.6;
 }
 
 /* Tool tips - not sure if I will use this quite yet*/
