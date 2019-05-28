@@ -22,10 +22,6 @@ a {
   text-decoration: none;
   color:rgb(130, 212, 130);
 }
-a:hover {
-  
-}
-
 .shadow {
    text-shadow: .5px .5px #ffffff;
 }
