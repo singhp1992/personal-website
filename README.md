@@ -1,6 +1,6 @@
 # Personal-website
 
-I created this website as a refresher of all things front-end
+I created this website to refresh my html and css skills
 
 ## To view: 
 
