@@ -122,6 +122,14 @@ header .location:hover {
   border-color: green;
 }
 
+.volunteer {
+  text-align: center;
+}
+
+.inline {
+  display: inline-block;
+}
+
 ul.skills {
   padding: 0;
   text-align: center;
