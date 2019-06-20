@@ -23,7 +23,7 @@ a {
   color:rgb(130, 212, 130);
 }
 .shadow {
-   text-shadow: .5px .5px #ffffff;
+   text-shadow: 2px 1px #ffffff;
 }
 
 /* Section Styles */
