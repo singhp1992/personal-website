@@ -20,14 +20,10 @@ body {
 
 a {
   text-decoration: none;
-  color: rgb(170, 170, 170);
-}
-a:hover {
   color:rgb(130, 212, 130);
 }
-
 .shadow {
-   text-shadow: .5px .5px #ffffff;
+   text-shadow: 2px 1px #ffffff;
 }
 
 /* Section Styles */
@@ -124,6 +120,14 @@ header .location:hover {
 
 .resume:hover {
   border-color: green;
+}
+
+.volunteer {
+  text-align: center;
+}
+
+.inline {
+  display: inline-block;
 }
 
 ul.skills {
