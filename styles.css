@@ -24,7 +24,7 @@ a {
 }
 
 .shadow {
-   text-shadow: 2px 1px #ffffff;
+   text-shadow: 1px 1px #ffffff;
 }
 
 /* Section Styles */
@@ -88,9 +88,10 @@ header .profile-image:hover {
   margin: 10px auto;
 } 
 
-.hello {
+/* .hello {
   text-shadow: 2px 2px white;
-}
+} */
+
 .location {
   background-color: #222;
   color: rgb(130, 212, 130);
