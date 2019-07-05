@@ -107,7 +107,7 @@ header .location:hover {
 }
 
 .resume {
-  margin: 30px;
+  margin: 10px auto;
   padding: 20px 40px 40px;
   max-width: 500px;
   text-align: left;
