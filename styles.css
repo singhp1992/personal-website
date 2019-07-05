@@ -257,6 +257,10 @@ a.social:hover {
     margin-left: 10px;
     margin-right: 10px;
   }
+
+  .resume {
+     margin-left: 10px;
+  }
 }
 
 @media (min-width: 1025px) {
