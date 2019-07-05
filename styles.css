@@ -4,12 +4,7 @@
 }
 
 @font-face {
-  /* font-family: "Caviar Dreams";
-  src: url(fonts/caviar_dreams/CaviarDreams.ttf); */
-  /* font-family: 'DM Serif Display',
-  serif; */
-  font-family: 'Questrial',
-  sans-serif;
+  font-family: 'Questrial', sans-serif;
 }
   
 body {
