@@ -24,7 +24,7 @@ a {
 }
 
 .shadow {
-   text-shadow: 2px 1px #ffffff;
+   text-shadow: 1px 1px #ffffff;
 }
 
 /* Section Styles */
@@ -87,6 +87,11 @@ header .profile-image:hover {
   display: table;
   margin: 10px auto;
 } 
+
+/* .hello {
+  text-shadow: 2px 2px white;
+} */
+
 .location {
   background-color: #222;
   color: rgb(130, 212, 130);
@@ -97,20 +102,12 @@ header .location:hover {
   transition: all .5s;
 }
 
-.card {
-  margin: 30px;
-  padding: 20px 40px 40px;
-  max-width: 333px;
-  background: #fff;
-  border-radius: 10px;
-}
-
 .left {
   text-align: left;
 }
 
 .resume {
-  margin: 30px;
+  margin: 10px auto;
   padding: 20px 40px 40px;
   max-width: 500px;
   text-align: left;
@@ -157,6 +154,14 @@ ul.skills {
 .skills li:hover {
   transform: scale(1.2);
   transition: all .5s;
+}
+
+.card {
+  margin: 10px auto;
+  padding: 20px 40px 40px;
+  max-width: 333px;
+  background: #fff;
+  border-radius: 10px;
 }
 
 footer {
@@ -212,30 +217,6 @@ a.social:hover {
   line-height: 1.6;
 }
 
-/* Tool tips - not sure if I will use this quite yet*/
-
-.tooltip {
-  position: relative;
-  display: inline-block;
-}
-
-.tooltip .tooltiptext {
-  visibility: hidden;
-  width: 120px;
-  background-color: black;
-  color: #fff;
-  text-align: center;
-  border-radius: 6px;
-  padding: 5px 0;
-  position: absolute;
-  z-index: 1;
-
-}
-
-.tooltip:hover .tooltiptext {
-  visibility: visible;
-}
-
 /* Mediaqueries */
 @media screen and (min-width: 768px) {
   
@@ -267,6 +248,24 @@ a.social:hover {
     max-width: 1200px;
     margin: 40px auto;
   }
+
+}
+
+@media (min-width: 770px) and (max-width: 1024px) {
+
+  .card {
+    margin-left: 10px;
+    margin-right: 10px;
+  }
+
+  .resume {
+    margin-left: 10px;
+    margin-right: 10px;
+    min-width: 375px;
+  }
+}
+
+@media (min-width: 1025px) {
 
 }
 
