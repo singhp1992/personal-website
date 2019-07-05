@@ -103,7 +103,7 @@ header .location:hover {
 }
 
 .card {
-  margin: 30px;
+  margin: 1px auto;
   padding: 20px 40px 40px;
   max-width: 333px;
   background: #fff;
