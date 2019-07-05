@@ -4,12 +4,15 @@
 }
 
 @font-face {
-  font-family: "Caviar Dreams";
-  src: url(fonts/caviar_dreams/CaviarDreams.ttf);
+  /* font-family: "Caviar Dreams";
+  src: url(fonts/caviar_dreams/CaviarDreams.ttf); */
+  font-family: 'DM Serif Display',
+  serif;
 }
   
 body {
-  font-family: 'Caviar Dreams', Courier, monospace;
+  /* font-family: 'Caviar Dreams', Courier, monospace; */
+  font-family: 'DM Serif Display', serif;
   margin: 0;
   padding: 0;
   text-align: center;
