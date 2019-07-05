@@ -102,14 +102,6 @@ header .location:hover {
   transition: all .5s;
 }
 
-.card {
-  margin: 1px auto;
-  padding: 20px 40px 40px;
-  max-width: 333px;
-  background: #fff;
-  border-radius: 10px;
-}
-
 .left {
   text-align: left;
 }
@@ -162,6 +154,14 @@ ul.skills {
 .skills li:hover {
   transform: scale(1.2);
   transition: all .5s;
+}
+
+.card {
+  margin: 10px auto;
+  padding: 20px 40px 40px;
+  max-width: 333px;
+  background: #fff;
+  border-radius: 10px;
 }
 
 footer {
